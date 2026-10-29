@@ -6,4 +6,4 @@
 <body>
   <a href="index_clean_text.html">Кушодани китобхона</a>
 </body>
-</html># Makhfirat-Yusufi-
+</html>
